@@ -182,11 +182,11 @@ nav {
 }*/
 
 .bg-pink {
-    background-color: #d67b8e;
+    background-color: #8670d6;
 }
 
 .badge-info {
-    background-color: #d67b8e !important;
+    background-color: #8670d6 !important;
 }
 
 @media (min-width: 768px) {
@@ -401,7 +401,7 @@ a {
 }
 
 .cc-linkedin:hover i {
-    color: #2867B2;
+    color: #609ce6;
 }
 
 .footer {
