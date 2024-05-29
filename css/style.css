@@ -84,7 +84,7 @@ header .overlay {
 /* change the color of active or hovered links */
 .navbar-custom .nav-link.active,
 .navbar-custom .nav-link:hover {
-    color: #d67b8e !important;
+    color: #8670d6 !important;
 }
 
 nav {
@@ -141,7 +141,7 @@ nav {
 }
 
 .down-arrow:hover svg path {
-    fill: #d67b8e;
+    fill: #8670d6;
     -webkit-transition: fill 800ms;
     transition: fill 800ms;
 }
